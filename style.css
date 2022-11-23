@@ -1,0 +1,12 @@
+@media screen and (max-width: 900px) and (min-width: 600px) {
+ 
+}
+
+	body {
+		background-color: whitesmoke ;
+	}
+	li{
+		color: darkblue;
+		font-family: sans-serif;
+
+	}
